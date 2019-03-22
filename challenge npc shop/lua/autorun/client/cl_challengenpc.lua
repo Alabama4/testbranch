@@ -1,5 +1,3 @@
-local meta = FindMetaTable( "Player" )
-
 local function menu()
 		local localweapontable = challengenpc.config.weapons
 	local voidFrame = vgui.Create("DFrame")
