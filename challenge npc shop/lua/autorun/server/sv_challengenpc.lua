@@ -1,6 +1,5 @@
 util.AddNetworkString("challengenpc_openmenu")
 util.AddNetworkString("challengenpc_purchaseitem")
-local meta = FindMetaTable( "Player" ) 
  
 
 
